@@ -1,0 +1,27 @@
+- 概览
+  - [简介](zh-cn/intro)
+  - [快速开始](zh-cn/quickstart)
+- 基本使用
+  - 图表
+	- [折线图](zh-cn/component/line)
+	- [条形图](zh-cn/component/bar)
+	- [柱状图](zh-cn/component/histogram)
+	- [饼图](zh-cn/component/pie)
+	- [环图](zh-cn/component/ring)
+	- [瀑布图](zh-cn/component/waterfall)
+	- [漏斗图](zh-cn/component/funnel)
+	- [雷达图](zh-cn/component/radar)
+	- [地图](zh-cn/component/map)
+	- [桑基图](zh-cn/component/sankey)
+	- [热力图](zh-cn/component/heatmap)
+	- [散点图](zh-cn/component/scatter)
+	- [K线图](zh-cn/component/candle)
+	- [仪表盘](zh-cn/component/gauge)
+	- [树图](zh-cn/component/tree)
+	- [水球图](zh-cn/component/liquidfill)
+	- [词云图](zh-cn/component/wordcloud)
+- 项目发布
+  - [版本日志](zh-cn/changelog)
+- 项目开发
+  - [参与贡献](zh-cn/contribution)
+  - [FAQ](zh-cn/faq)  
